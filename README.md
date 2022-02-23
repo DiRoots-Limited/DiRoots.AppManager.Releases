@@ -1,0 +1,1 @@
+# DiRoots.AppManager.Releases
