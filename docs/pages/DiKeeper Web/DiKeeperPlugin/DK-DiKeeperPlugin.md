@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DiKeeper Plugin
-parent: DiKeeper Plugin Guide
+title: DiRoots App Manager
+parent: App Manager User Guide
 nav_order: 1
 ---
 
