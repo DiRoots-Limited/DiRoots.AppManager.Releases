@@ -24,6 +24,9 @@ In the "Tools" tab you will find all the DiRoots applications available.
 ```yaml
 Note that in front of the name of the tool there is information about the type of application and its status, whether it is free or requires a subscription.
 ```
+- Use the search box to find a tool.
+
+- Use the dropdown list to filter the tools by type.
 
 ![App Manager - Tools](../../../../)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
@@ -55,4 +58,17 @@ Note that if the button is set to "Update" the current application installed has
 ```
 
 ![App Manager - Tool Status](../../../../)  
+<sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
+
+---
+
+## Settings
+
+Activate the button to perform a cleanup, deleting old Revit files.
+
+1. Define how many days can be considered to delete the files.
+
+2. Determine how often the tool should check for old files.
+
+![App Manager - Settings](../../../../)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
