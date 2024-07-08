@@ -28,7 +28,7 @@ Note that in front of the name of the tool there is information about the type o
 
 - Use the dropdown list to filter the tools by type.
 
-![App Manager - Tools](../../../../)  
+![App Manager - Tools](../../../../assets\images\GIFs\Tools\AM-AppManager.png)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
 
 ## Tool details
@@ -39,14 +39,14 @@ Click on the desired tool to find out more about its features.
 
 2. In the second "Changelog" tab, you can see the latest updates to the tool, as well as new features and bug fixes.
 
-![App Manager - Tool details](../../../../)  
+![App Manager - Tool details](../../../../assets\images\GIFs\Tools\AM-Details.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
 
 ### User Guide
 
 Click on the "Info" button to access the full documentation and tutorial videos for the current tool.
 
-![App Manager - User Guide](../../../../)  
+![App Manager - User Guide](../../../../assets\images\GIFs\Tools\AM-UserGuide.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
 
 ### Status
@@ -57,7 +57,7 @@ Check the button next to Info (user guide), which will indicate whether you alre
 Note that if the button is set to "Update" the current application installed has an old version, and you may not have all the current tools.
 ```
 
-![App Manager - Tool Status](../../../../)  
+![App Manager - Tool Status](../../../../assets\images\GIFs\Tools\AM-StatusButton.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
 
 ---
@@ -70,5 +70,5 @@ Activate the button to perform a cleanup, deleting old Revit files.
 
 2. Determine how often the tool should check for old files.
 
-![App Manager - Settings](../../../../)  
+![App Manager - Settings](../../../../assets\images\GIFs\Tools\AM-Settings.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>

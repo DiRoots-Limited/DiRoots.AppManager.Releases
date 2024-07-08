@@ -29,7 +29,7 @@ In this tab, you will find a list of all the plugins installed on your computer 
 Make sure you open the Application Manager as Administrator. If you haven't opened it this way, you won't have permissions to act on the plug-ins.
 ```
 
-![App Manager - Addin Manager](../../../../)  
+![App Manager - Addin Manager](../../../../assets\images\GIFs\AddinManager\AM-AddinManager.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
 
 ---
@@ -42,5 +42,5 @@ Activate the button to perform a cleanup, deleting old Revit files.
 
 2. Determine how often the tool should check for old files.
 
-![App Manager - Settings](../../../../)  
+![App Manager - Settings](../../../../assets\images\GIFs\Tools\AM-Settings.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>

@@ -52,7 +52,7 @@ This method is ideal for individuals who want to install DiRoots App Manager in 
 
 3. Click 'Install'.
 
-![App Manager Installation First Step](..\)
+![App Manager Installation First Step](..\assets\images\GIFs\GettingStarted\AM-Install.gif)
 
 ## Uninstall
 
@@ -62,7 +62,7 @@ This method is ideal for individuals who want to install DiRoots App Manager in 
 
 2. Click 'Remove'.
 
-![App Manager Uninstall](..\)
+![App Manager Uninstall](..\assets\images\GIFs\GettingStarted\AM-Unistall.png)
 
 3. Wait for the uninstallation to complete and click 'Finish'.
 
@@ -81,4 +81,4 @@ The updater will:
 - notify you whenever a new version is released.
 - ask you to install now or to remind you tomorrow.
 
-![App Manager Updater UI](../)
+![App Manager Updater UI](../assets\images\GIFs\GettingStarted\AM-Update.png)

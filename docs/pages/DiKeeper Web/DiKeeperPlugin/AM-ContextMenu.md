@@ -21,7 +21,7 @@ DiRoots App Manager is a standalone desktop application to install/update DiRoot
 
 Automatically open RVT and RFA files with the correct Revit version and quickly check the version of RVT and RFA files.
 
-![App Manager - Context Menu](../../../../)  
+![App Manager - Context Menu](../../../../assets\images\GIFs\ContextMenu\AM-Context.png)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
 
 ## Check Revit version
@@ -32,7 +32,7 @@ Automatically open RVT and RFA files with the correct Revit version and quickly 
 
 3. Find "DiRoots" and then click on "Check Revit version". Now check the version of the current file.
 
-![App Manager - Check Revit version](../../../../)  
+![App Manager - Check Revit version](../../../../assets\images\GIFs\ContextMenu\AM-RevitVersion.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
 
 ## Open with DiRoots App Manager
@@ -45,5 +45,5 @@ Opening through the DiRoots App Manager allows you to choose a version of Revit 
 
 3. Find "DiRoots" and then click on "Open with DiRoots App Manager".
 
-![App Manager - Open with DiRoots App Manager](../../../../)  
+![App Manager - Open with DiRoots App Manager](../../../../assets\images\GIFs\ContextMenu\AM-OpenWith.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
