@@ -7,17 +7,19 @@ nav_order: 2
 # Getting Started
 {: .no_toc }
 
-A SaaS modular web app to manage users and content (e.g., Revit Families), complemented by a powerful Revit content browser plugin.
+DiRoots App Manager is a standalone desktop application to install/update DiRoots Applications and to enable/disable Revit Plugins.
 Not permitted:
 -	Sell/resell
 -	make modifications to the software.
+{: .fs-6 .fw-300 }
 
 ## Main Modules
 
-- User Management System
-- Content Management System
-
-Both modules provide seamless integration with Autodesk Revit.
+- Install and update all DiRoots applications in one place.
+- Add-in manager to easily activate/deactivate Revit plugins and the ability to save the activated/deactivated add-ins/plugins to profiles.
+- Auto delete Revit Journal Files.
+- Automatically open RVT and RFA files with the correct Revit version.
+- Quickly check the version of RVT and RFA files.
 
 {: .fs-6 .fw-300 }
 
@@ -29,95 +31,40 @@ Both modules provide seamless integration with Autodesk Revit.
 
 ---
 
-## Access the Web Application & Revit Plugin
+## Download
 
-### On-premises Deployments
+Download the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).
 
-- To access the web application use the URL provided to you by your account manager (e.g., your-company-name.dikeeper.com).
-- To download the Revit plugin use the URL provided to you by your account manager.
-
-### Other Deployments
-
-- Coming Soon.
-
-## Revit Content Browser Plugin Installation 
+## Install
 
 ### Compatibility
-
 - Windows 7, 8, 10 and 11.
-- Revit 2018, 2019, 2020, 2021, 2022, 2023, 2024, and 2025.
 
-### First web application access
-
-1. First of all, make sure you have created your DiKeeper account. Ask your manager to send you an invitation to register on DiKeeper.
-You will receive an invitation by email, and you should click on "Join Now" and then will be directed to the registration page.
-
-![DiKeeper Invitation](..\assets\images\GIFs\GettingStarted\DK-Invitation.png)
-
-2. Enter your e-mail address and click on "Send verification code", then access the e-mail to obtain the verification code to check your e-mail account.
-
-![DiKeeper verification code](..\assets\images\GIFs\GettingStarted\DK-Code.png)
-
-3. Fill all personal information fields and click on “Create” button to conclude.
-
-![DiKeeper personal informartion](..\assets\images\GIFs\GettingStarted\DK-UserInformation.png)
-
----
-
-### Standard Revit Plugin Installation
+### Standard Installation
 
 ```yaml
-This method is ideal for individuals who want to install DiKeeper in one computer.
+This method is ideal for individuals who want to install DiRoots App Manager in one computer.
 ```
 
-1. Run DiKeeper installer.
+1. Run App Manager installer.
 
-2. Select the Revit versions and click 'Install'.
+2. Select the checkbox if you agree to the Terms and Conditions and Privacy Policy.
 
-3. Wait for the installation to complete and click 'Finish'.
+3. Click 'Install'.
 
-![DiKeeper Installation First Step](..\assets\images\GIFs\GettingStarted\DK-Install.gif)
-
-### Silent Installation
-
-```yaml
-This method is ideal for IT administrators who want to deploy DiKeeper to multiple computers.
-```
-
-- Install for all compatible Revit versions.
-
-```yaml
-# This method will silently install DiKeeper for all compatible Revit versions.
-<installer-name>.exe /i // /qn accept_eula=1
-```
-
-- Exclude specific Revit versions.
-
-```yaml
-# In this example DiKeeper will NOT be installed for Revit 2017, 2018, and 2019.
-<installer-name>.exe /i // /qn accept_eula=1 revit2017="" revit2018="" revit2019=""
-```
+![App Manager Installation First Step](..\assets\images\GIFs\GettingStarted\AM-Install.gif)
 
 ## Uninstall
 
 ### Using the installer User Interface
 
-1. Run DiKeeper installer.
+1. Run App Manager installer.
 
-2. Select and click 'Remove'.
+2. Click 'Remove'.
 
-![DiKeeper Uninstall](..\assets\images\GIFs\GettingStarted\DK-RemovePlugin.gif)
+![App Manager Uninstall](..\assets\images\GIFs\GettingStarted\AM-Unistall.png)
 
-3 . Wait for the uninstallation to complete and click 'Finish'.
-
-### Using the installer silently
-
-Uninstall DiKeeper without user interaction.
-
-```yaml
-# This method will remove DiKeeper from your computer.
-<installer-name>.exe /x // /qn
-```
+3. Wait for the uninstallation to complete and click 'Finish'.
 
 ### From the control panel
 
@@ -129,8 +76,9 @@ Uninstall DiKeeper without user interaction.
 
 ## Updates
 
-DiKeeper includes an updater to help you keep it up to date. 
+DiRootsOne includes an updater to help you keep it up to date. 
 The updater will:
-
-- notify you whenever a new version is released (the action is triggered on Revit close event).
+- notify you whenever a new version is released.
 - ask you to install now or to remind you tomorrow.
+
+![App Manager Updater UI](../assets\images\GIFs\GettingStarted\AM-Update.png)
