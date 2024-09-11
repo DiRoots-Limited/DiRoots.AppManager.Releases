@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DiRoots App Manager User Guide
-nav_order: 4
+title: App Manager User Guide
+nav_order: 3
 has_children: true
 permalink: /docs/appmanager-user-guide
 ---
