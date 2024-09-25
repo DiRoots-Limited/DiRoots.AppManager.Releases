@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tools
+title: Addin Manager
 parent: App Manager User Guide
 nav_order: 2
 ---

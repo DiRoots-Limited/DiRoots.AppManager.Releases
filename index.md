@@ -6,7 +6,7 @@ description: "App Manager User Guide."
 permalink: /
 ---
 
-# DiKeeper.
+# DiRoots App Manager
 
 ![DiRoots Logo](assets\images\DiRootsAppManager-Icon-Dark-150x150-1-150x150.png)
 
