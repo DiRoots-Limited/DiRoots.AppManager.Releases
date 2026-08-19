@@ -69,7 +69,7 @@ This is supported when using **Check Revit version** or **Open Revit file with t
 
 ## Open in audit mode
 
-You can open files in Audit mode. Audit mode always opens the file in a new Revit session. The interface displays the message: *The file must be opened in a new section meaning it will be opened apart.*
+You can open files in Audit mode. Audit mode always opens the file in a new Revit session. The interface displays the message: *The file must be opened in a new session meaning it will be opened apart.*
 
 This option is available from the same open flow when checking the Revit version or specific cases of using Open Revit file with the correct Revit version.
 
