@@ -1,6 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
+  # Generate redirects for legacy URLs declared with redirect_to or redirect_from.
   - jekyll-redirect-from
 
 # Set a path/url to a logo that will be displayed instead of the title

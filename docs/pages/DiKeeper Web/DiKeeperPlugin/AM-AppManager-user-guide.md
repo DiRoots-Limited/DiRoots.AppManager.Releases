@@ -1,6 +1,6 @@
 ---
 layout: default
-title: App Manager
+title: App Manager guide moved
 nav_order: 3
 permalink: /docs/appmanager-user-guide
 redirect_to: /docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html

@@ -2,7 +2,7 @@
 <html lang="en-US">
   <meta charset="utf-8">
   <title>Redirecting…</title>
-  <link rel="canonical" href="{{ page.redirect.to | escape }}">
+  <link rel="canonical" href="{{ page.redirect.to | default: page.redirect_to | absolute_url | escape }}">
   <meta name="robots" content="noindex">
   <h1>Redirecting…</h1>
   <p>This page has moved to <a id="redirect-link" href="{{ page.redirect.to | default: page.redirect_to | escape }}">the App Manager guide</a>.</p>
