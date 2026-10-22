@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <link rel="canonical" href="{{ page.redirect.to | escape }}">
+  <meta name="robots" content="noindex">
+  <h1>Redirecting…</h1>
+  <p>This page has moved to <a id="redirect-link" href="{{ page.redirect.to | escape }}">the App Manager guide</a>.</p>
+  <script>
+    const target = new URL({{ page.redirect.to_js }});
+    const current = new URL(window.location.href);
+    target.search = current.search;
+    target.hash = current.hash;
+    document.getElementById("redirect-link").href = target.href;
+    window.location.replace(target.href);
+  </script>
+</html>

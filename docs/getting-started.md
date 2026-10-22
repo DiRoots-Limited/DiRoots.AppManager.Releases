@@ -47,7 +47,7 @@ This method is ideal for installing DiRoots App Manager on one computer.
 
 3. Click 'Install'.
 
-![App Manager Installation First Step](..\assets\images\GIFs\GettingStarted\AM-Install.gif)
+![App Manager Installation First Step](../assets/images/GIFs/GettingStarted/AM-Install.gif)
 
 ## Uninstall
 
@@ -57,7 +57,7 @@ This method is ideal for installing DiRoots App Manager on one computer.
 
 2. Click 'Remove'.
 
-   ![App Manager Uninstall](..\assets\images\GIFs\GettingStarted\AM-Unistall.png)
+   ![App Manager Uninstall](../assets/images/GIFs/GettingStarted/AM-Unistall.png)
 
 3. Wait for the uninstallation to complete and click 'Finish'.
 
@@ -74,4 +74,4 @@ This method is ideal for installing DiRoots App Manager on one computer.
 DiRoots App Manager includes an updater that notifies you when a new version is available.
 You can install the update immediately or choose to be reminded the next day.
 
-![App Manager Updater UI](../assets\images\GIFs\GettingStarted\AM-Update.png)
+![App Manager Updater UI](../assets/images/GIFs/GettingStarted/AM-Update.png)

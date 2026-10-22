@@ -28,7 +28,7 @@ The label beside each tool name identifies its application type and whether it i
 - Use the search box to find a tool.
 - Use the drop-down list to filter tools by type.
 
-![App Manager - Tools](../../../../assets\images\GIFs\Tools\AM-AppManager.png)
+![App Manager - Tools](../../../../assets/images/GIFs/Tools/AM-AppManager.png)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.
@@ -41,7 +41,7 @@ Select a tool to view its features.
 
 2. In the Changelog tab, review recent updates, new features, and bug fixes.
 
-![App Manager - Tool details](../../../../assets\images\GIFs\Tools\AM-Details.gif)
+![App Manager - Tool details](../../../../assets/images/GIFs/Tools/AM-Details.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.
@@ -50,7 +50,7 @@ Screenshots may show an earlier version of App Manager.
 
 Select the Info button to open the documentation and tutorial videos for the selected tool.
 
-![App Manager - User Guide](../../../../assets\images\GIFs\Tools\AM-UserGuide.gif)
+![App Manager - User Guide](../../../../assets/images/GIFs/Tools/AM-UserGuide.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.
@@ -62,7 +62,7 @@ The button beside Info shows whether the application is installed or, for cloud 
 {: .warning }
 If the button says Update, the installed application is out of date and may not include all current features.
 
-![App Manager - Tool Status](../../../../assets\images\GIFs\Tools\AM-StatusButton.gif)
+![App Manager - Tool Status](../../../../assets/images/GIFs/Tools/AM-StatusButton.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.
@@ -80,7 +80,7 @@ Use these settings to control cleanup of old Revit journal files.
 {: .warning }
 Cleanup deletes journal files that meet the age threshold you set.
 
-![App Manager - Settings](../../../../assets\images\GIFs\Tools\AM-Settings.gif)
+![App Manager - Settings](../../../../assets/images/GIFs/Tools/AM-Settings.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.

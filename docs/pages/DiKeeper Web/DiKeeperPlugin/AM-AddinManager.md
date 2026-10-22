@@ -27,7 +27,7 @@ Close Revit and AutoCAD before activating or deactivating plug-ins.
 {: .important }
 Run App Manager as an administrator before changing plug-in status. Without administrator permissions, those actions may fail.
 
-![App Manager - Addin Manager](../../../../assets\images\GIFs\AddinManager\AM-AddinManager.gif)
+![App Manager - Addin Manager](../../../../assets/images/GIFs/AddinManager/AM-AddinManager.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.
@@ -45,7 +45,7 @@ Use these settings to control cleanup of old Revit journal files.
 {: .warning }
 Cleanup deletes journal files that meet the age threshold you set.
 
-![App Manager - Settings](../../../../assets\images\GIFs\Tools\AM-Settings.gif)
+![App Manager - Settings](../../../../assets/images/GIFs/Tools/AM-Settings.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.

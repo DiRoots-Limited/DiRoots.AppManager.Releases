@@ -30,7 +30,7 @@ You can check the Revit version of one or more files after selecting them. From 
 
 4. Review the Revit version for each selected file. From there, choose the Revit version to open any file if needed.
 
-![App Manager - Check Revit version](../../../../assets\images\GIFs\ContextMenu\AM-RevitVersion.gif)
+![App Manager - Check Revit version](../../../../assets/images/GIFs/ContextMenu/AM-RevitVersion.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.
@@ -47,7 +47,7 @@ If the required Revit version is installed and the file is not workshared, the f
 
 3. Find "DiRoots" and then click "Open Revit file with the correct Revit version".
 
-![App Manager - Open Revit file with the correct Revit version](../../../../assets\images\GIFs\ContextMenu\AM-OpenRevitFile.gif)
+![App Manager - Open Revit file with the correct Revit version](../../../../assets/images/GIFs/ContextMenu/AM-OpenRevitFile.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.
@@ -62,7 +62,7 @@ When opening files through DiRoots App Manager, you can see whether a file is wo
 
 This is supported when using **Check Revit version** or **Open Revit file with the correct Revit version**, for one or more files.
 
-![App Manager - Support for workshared files](../../../../assets\images\GIFs\ContextMenu\AM-Workshared.gif)
+![App Manager - Support for workshared files](../../../../assets/images/GIFs/ContextMenu/AM-Workshared.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.
@@ -73,7 +73,7 @@ You can open files in Audit mode. Audit mode always opens the file in a new Revi
 
 This option is available from the same open flow when checking the Revit version or in specific cases of using Open Revit file with the correct Revit version.
 
-![App Manager - Open in audit mode](../../../../assets\images\GIFs\ContextMenu\AM-AuditMode.gif)
+![App Manager - Open in audit mode](../../../../assets/images/GIFs/ContextMenu/AM-AuditMode.gif)
 
 {: .note }
 Screenshots may show an earlier version of App Manager.
