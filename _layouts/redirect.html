@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html lang="en-US">
-  <meta charset="utf-8">
-  <title>Redirecting…</title>
-  <link rel="canonical" href="{{ page.redirect.to | default: page.redirect_to | absolute_url | escape }}">
-  <meta name="robots" content="noindex">
-  <h1>Redirecting…</h1>
-  <p>This page has moved to <a id="redirect-link" href="{{ page.redirect.to | default: page.redirect_to | escape }}">the App Manager guide</a>.</p>
-  <script>
-    const target = new URL({{ page.redirect.to | default: page.redirect_to | jsonify }}, window.location.origin);
-    const current = new URL(window.location.href);
-    target.search = current.search;
-    target.hash = current.hash;
-    document.getElementById("redirect-link").href = target.href;
-    window.location.replace(target.href);
-  </script>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting…</title>
+    <link rel="canonical" href="{{ page.redirect.to | default: page.redirect_to | absolute_url | escape }}">
+    <meta name="robots" content="noindex">
+  </head>
+  <body>
+    <h1>Redirecting…</h1>
+    <p>This page has moved to <a id="redirect-link" href="{{ page.redirect.to | default: page.redirect_to | relative_url | escape }}">the App Manager guide</a>.</p>
+    <script>
+      const target = new URL({{ page.redirect.to | default: page.redirect_to | relative_url | jsonify }}, window.location.origin);
+      const current = new URL(window.location.href);
+      target.search = current.search;
+      target.hash = current.hash;
+      document.getElementById("redirect-link").href = target.href;
+      window.location.replace(target.href);
+    </script>
+  </body>
 </html>
