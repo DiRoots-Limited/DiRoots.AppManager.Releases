@@ -71,7 +71,7 @@ Screenshots may show an earlier version of App Manager.
 
 You can open files in Audit mode. Audit mode always opens the file in a new Revit session.
 
-This option is available from the same open flow when checking the Revit version or in specific cases of using Open Revit file with the correct Revit version.
+You can also select Audit mode in the **Check Revit version** workflow or, in some cases, the **Open Revit file with the correct Revit version** workflow.
 
 ![App Manager - Open in audit mode](../../../../assets/images/GIFs/ContextMenu/AM-AuditMode.gif)
 
