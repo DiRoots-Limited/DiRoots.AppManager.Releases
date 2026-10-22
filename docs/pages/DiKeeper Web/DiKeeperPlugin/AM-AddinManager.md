@@ -21,16 +21,16 @@ In this tab, you can review the plug-ins installed on your computer, check their
 - Use the switch in the On/Off column to activate or deactivate a plug-in.
 - Use the search box to find a plug-in.
 
-{: .warning }
 Close Revit and AutoCAD before activating or deactivating plug-ins.
+{: .warning }
 
-{: .important }
 Run App Manager as an administrator before changing plug-in status. Without administrator permissions, those actions may fail.
+{: .important }
 
 ![App Manager - Addin Manager](../../../../assets/images/GIFs/AddinManager/AM-AddinManager.gif)
 
-{: .note }
 Screenshots may show an earlier version of App Manager.
+{: .note }
 
 ---
 
@@ -42,10 +42,10 @@ Use these settings to control cleanup of old Revit journal files.
 
 2. Choose how often App Manager checks for eligible files.
 
-{: .warning }
 Cleanup deletes journal files that meet the age threshold you set.
+{: .warning }
 
 ![App Manager - Settings](../../../../assets/images/GIFs/Tools/AM-Settings.gif)
 
-{: .note }
 Screenshots may show an earlier version of App Manager.
+{: .note }
