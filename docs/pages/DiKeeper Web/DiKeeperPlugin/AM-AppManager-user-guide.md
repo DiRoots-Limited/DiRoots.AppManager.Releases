@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: redirect
 title: App Manager guide moved
 nav_order: 3
 permalink: /docs/appmanager-user-guide
