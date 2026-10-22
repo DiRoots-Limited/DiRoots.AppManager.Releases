@@ -1,6 +1,8 @@
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
+  # The remote theme must be enabled when this explicit plugin list is present.
+  - jekyll-remote-theme
   # Generate redirects for legacy URLs declared with redirect_to or redirect_from.
   - jekyll-redirect-from
 
@@ -25,9 +27,9 @@ search:
   # Default: 10
   preview_words_after: 10
   # Set the search token separator
-  # Default: /[\s\-/]+/
+  # Default: /[\\s\\-/]+/
   # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
+  tokenizer_separator: /[\\s/]+/
   # Display the relative url in search results
   # Supports true (default) or false
   rel_url: true
@@ -44,7 +46,7 @@ aux_links:
 aux_links_new_tab: false
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
+# allowing users to deep link to a particular heading on the page.
 #
 # Supports true (default) or false
 heading_anchors: true
