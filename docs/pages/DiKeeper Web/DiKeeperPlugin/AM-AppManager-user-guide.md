@@ -8,6 +8,6 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# App Manager
+# App Manager guide moved
 
 This guide has moved to the [App Manager guide](/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html). If you are not redirected automatically, follow that link.
