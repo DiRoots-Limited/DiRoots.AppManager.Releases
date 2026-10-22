@@ -5,6 +5,7 @@
     <title>Redirecting…</title>
     <link rel="canonical" href="{{ page.redirect.to | default: page.redirect_to | absolute_url | escape }}">
     <meta name="robots" content="noindex">
+    <meta http-equiv="refresh" content="0; url={{ page.redirect.to | default: page.redirect_to | relative_url | escape }}">
   </head>
   <body>
     <h1>Redirecting…</h1>
