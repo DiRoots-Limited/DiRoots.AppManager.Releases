@@ -7,19 +7,16 @@ nav_order: 2
 # Getting Started
 {: .no_toc }
 
-DiRoots App Manager is a standalone desktop application to install/update DiRoots Applications and to enable/disable Revit Plugins.
-Not permitted:
--	Sell/resell
--	make modifications to the software.
+DiRoots App Manager is a standalone desktop application for installing and updating DiRoots applications and managing Revit plug-ins.
 {: .fs-6 .fw-300 }
 
 ## Main Modules
 
-- Install and update all DiRoots applications in one place.
-- Add-in manager to easily activate/deactivate Revit plugins and the ability to save the activated/deactivated add-ins/plugins to profiles.
-- Auto delete Revit Journal Files.
-- Automatically open RVT and RFA files with the correct Revit version.
-- Quickly check the version of RVT and RFA files.
+- Install and update DiRoots applications in one place.
+- Activate or deactivate Revit plug-ins and save those settings in profiles.
+- Automatically delete old Revit journal files.
+- Open RVT and RFA files with the correct Revit version.
+- Check the Revit version of RVT and RFA files.
 
 {: .fs-6 .fw-300 }
 
@@ -42,9 +39,7 @@ Download the [latest version of App Manager](https://diroots.com/apps/diroots-ap
 
 ### Standard Installation
 
-```yaml
-This method is ideal for individuals who want to install DiRoots App Manager in one computer.
-```
+This method is ideal for installing DiRoots App Manager on one computer.
 
 1. Run App Manager installer.
 
@@ -62,7 +57,7 @@ This method is ideal for individuals who want to install DiRoots App Manager in 
 
 2. Click 'Remove'.
 
-![App Manager Uninstall](..\assets\images\GIFs\GettingStarted\AM-Unistall.png)
+   ![App Manager Uninstall](..\assets\images\GIFs\GettingStarted\AM-Unistall.png)
 
 3. Wait for the uninstallation to complete and click 'Finish'.
 
@@ -76,9 +71,7 @@ This method is ideal for individuals who want to install DiRoots App Manager in 
 
 ## Updates
 
-DiRootsOne includes an updater to help you keep it up to date. 
-The updater will:
-- notify you whenever a new version is released.
-- ask you to install now or to remind you tomorrow.
+DiRoots App Manager includes an updater that notifies you when a new version is available.
+You can install the update immediately or choose to be reminded the next day.
 
 ![App Manager Updater UI](../assets\images\GIFs\GettingStarted\AM-Update.png)
