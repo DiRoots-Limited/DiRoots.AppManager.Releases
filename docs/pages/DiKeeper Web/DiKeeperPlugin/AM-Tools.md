@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Tools
-parent: App Manager User Guide
-nav_order: 1
+title: App Manager
+nav_order: 3
+has_children: true
 ---
 
-# DiRoots App Manager
+# App Manager
 {: .no_toc }
-DiRoots App Manager is a standalone desktop application to install/update DiRoots Applications and to enable/disable Revit Plugins.
+
+DiRoots App Manager helps you install and update DiRoots applications, manage Revit plug-ins, and work with RVT and RFA files.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -17,58 +18,71 @@ DiRoots App Manager is a standalone desktop application to install/update DiRoot
 
 ---
 
-# Tools
+## Tools
 
-In the "Tools" tab you will find all the DiRoots applications available.
+In the Tools tab, you can browse the DiRoots applications available in App Manager.
 
-```yaml
-Note that in front of the name of the tool there is information about the type of application and its status, whether it is free or requires a subscription.
-```
+The label beside each tool name identifies its application type and whether it is free or requires a subscription.
+{: .note }
+
 - Use the search box to find a tool.
+- Use the drop-down list to filter tools by type.
 
-- Use the dropdown list to filter the tools by type.
+![App Manager - Tools](../../../../assets/images/GIFs/Tools/AM-AppManager.png)
 
-![App Manager - Tools](../../../../assets\images\GIFs\Tools\AM-AppManager.png)  
-<sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
+Screenshots may show an earlier version of App Manager.
+{: .note }
 
-## Tool details
+### Tool details
 
-Click on the desired tool to find out more about its features.
+Select a tool to view its features.
 
-1. In the first "Overview" tab, you'll find a full description of the tool's main features. As well as links to documentation, to send feedback, to quote a customized product, etc.
+1. In the Overview tab, review the tool's main features and links to its documentation, feedback form, and custom software request form.
 
-2. In the second "Changelog" tab, you can see the latest updates to the tool, as well as new features and bug fixes.
+2. In the Changelog tab, review recent updates, new features, and bug fixes.
 
-![App Manager - Tool details](../../../../assets\images\GIFs\Tools\AM-Details.gif)  
-<sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
+![App Manager - Tool details](../../../../assets/images/GIFs/Tools/AM-Details.gif)
 
-### User Guide
+Screenshots may show an earlier version of App Manager.
+{: .note }
 
-Click on the "Info" button to access the full documentation and tutorial videos for the current tool.
+### User guide
 
-![App Manager - User Guide](../../../../assets\images\GIFs\Tools\AM-UserGuide.gif)  
-<sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
+Select the Info button to open the documentation and tutorial videos for the selected tool.
+
+![App Manager - User Guide](../../../../assets/images/GIFs/Tools/AM-UserGuide.gif)
+
+Screenshots may show an earlier version of App Manager.
+{: .note }
 
 ### Status
 
-Check the button next to Info (user guide), which will indicate whether you already have the application installed or direct you to open it (in the case of the cloud application). The statuses can be Install, Uninstall, Update or Open.
+The button beside Info shows whether the application is installed or, for cloud applications, opens it. Statuses include Install, Uninstall, Update, and Open.
 
-```yaml
-Note that if the button is set to "Update" the current application installed has an old version, and you may not have all the current tools.
-```
+If the button says Update, the installed application is out of date and may not include all current features.
+{: .warning }
 
-![App Manager - Tool Status](../../../../assets\images\GIFs\Tools\AM-StatusButton.gif)  
-<sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
+![App Manager - Tool Status](../../../../assets/images/GIFs/Tools/AM-StatusButton.gif)
+
+Screenshots may show an earlier version of App Manager.
+{: .note }
 
 ---
 
 ## Settings
 
-Activate the button to perform a cleanup, deleting old Revit files.
+Use these settings to control cleanup of old Revit journal files.
 
-1. Define how many days can be considered to delete the files.
+1. Enable **Auto delete Revit journal files** to make the cleanup settings available.
 
-2. Determine how often the tool should check for old files.
+2. Set how many days old journal files must be before they are eligible for cleanup.
 
-![App Manager - Settings](../../../../assets\images\GIFs\Tools\AM-Settings.gif)  
-<sub>Note: the version on the image may not reflect the [latest version of App Manager](https://diroots.com/apps/diroots-app-manager/#downloadForm).</sub>
+3. Choose how often App Manager checks for eligible files.
+
+Cleanup deletes journal files that meet the age threshold you set.
+{: .warning }
+
+![App Manager - Settings](../../../../assets/images/GIFs/Tools/AM-Settings.gif)
+
+Screenshots may show an earlier version of App Manager.
+{: .note }

@@ -1,13 +1,13 @@
 ---
-layout: default
-title: App Manager User Guide
+layout: redirect
+title: App Manager guide moved
 nav_order: 3
-has_children: true
 permalink: /docs/appmanager-user-guide
+redirect_to: /docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html
+nav_exclude: true
+search_exclude: true
 ---
 
-# App Manager User Guide
+# App Manager guide moved
 
-Learn how to use DiRoots App Manager.
-{: .fs-6 .fw-300 }
-
+This guide has moved to the [App Manager guide](/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html). If you are not redirected automatically, follow that link.

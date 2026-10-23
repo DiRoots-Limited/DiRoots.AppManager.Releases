@@ -2,7 +2,7 @@
 layout: default
 title: About
 nav_order: 1
-description: "App Manager User Guide."
+description: "Install and update DiRoots applications, manage Revit plug-ins, and open RVT and RFA files with the correct Revit version."
 permalink: /
 ---
 
