@@ -73,9 +73,11 @@ Screenshots may show an earlier version of App Manager.
 
 Use these settings to control cleanup of old Revit journal files.
 
-1. Set how many days old journal files must be before they are eligible for cleanup.
+1. Enable **Auto delete Revit journal files** to make the cleanup settings available.
 
-2. Choose how often App Manager checks for eligible files.
+2. Set how many days old journal files must be before they are eligible for cleanup.
+
+3. Choose how often App Manager checks for eligible files.
 
 Cleanup deletes journal files that meet the age threshold you set.
 {: .warning }
